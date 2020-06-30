@@ -1,0 +1,2 @@
+9178f824303abb374a177407c3c7699f10c397bfc3afe9b7331ae73062bda7eb  mit_kemar_44100_sphere.mhr
+162825b9b3a5ff4d93c1fcc9682ee6e7483da89e37ceebeaa6837bdc19eaa974  mit_kemar_44100_dataset.mhr

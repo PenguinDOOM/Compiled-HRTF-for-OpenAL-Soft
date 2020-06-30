@@ -1,0 +1,2 @@
+00deb357a771f93bf49009adadab2078848bcf0e0e2419f1c7457e636d5fbb45  scut_kemar_mono_44100_dataset.mhr
+8a888aec814649041c90636e0346b9c342ddf3986d77bd74727b169f764cf75e  scut_kemar_mono_44100_sphere.mhr

@@ -1,0 +1,2 @@
+5b7fdc60012e4d5ccc14f3ce2c24fafd86a9afb15d5eea2c920bcaaad57e0a7e  sadie_ku100_48000_dataset.mhr
+5645941ace78bad1d0b35ac75fdad7fe39aef451828ff24c44c670ff9090bb71  sadie_ku100_48000_sphere.mhr

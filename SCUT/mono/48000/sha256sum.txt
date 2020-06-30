@@ -1,0 +1,2 @@
+297e47ea4259ec744aed51f1e041aa55a23cea2ccb222aa41ce9723a1e43ad03  scut_kemar_mono_48000_dataset.mhr
+ce20f3e83ee2c6620b44c13da233b44f484e6cffa7f11b67b94250c494fe6ada  scut_kemar_mono_48000_sphere.mhr
