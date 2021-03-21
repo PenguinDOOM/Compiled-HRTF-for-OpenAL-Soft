@@ -1,0 +1,40 @@
+name: SADIE
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: SADIE
+
+      - name: Run a one-line script
+        shell: cmd
+        run: |
+          echo Hello, world!
+
+      - name: Run setup
+        shell: cmd
+        run: |
+          mkdir Artifact
+
+      - name: Run a compile script
+        shell: cmd
+        run: |
+          echo Start compile HRTF
+          echo 
+          echo Compiling SADIE HRTF...
+          call SADIE.bat
+          echo Done!
+          echo 
+          echo All Done!
+
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Compiled_SADIE_HRTF
+          path: .\Artifact\
