@@ -22,7 +22,7 @@ rate     = 48000
 # The SOFA file is stereo, but the original data was mono.  Channels are just
 # mirrored by azimuth; so save some memory by allowing OpenAL Soft to mirror
 # them at run time.
-type     = stereo
+type     = mono
 
 points   = 256
 
