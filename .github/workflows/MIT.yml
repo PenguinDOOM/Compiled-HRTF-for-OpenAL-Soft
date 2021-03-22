@@ -28,7 +28,7 @@ jobs:
           echo Start compile HRTF
           echo 
           echo Compiling MIT HRTF...
-          call MIT.bat
+          call MIT_KEMAR.bat
           echo Done!
           echo 
           echo All Done!
