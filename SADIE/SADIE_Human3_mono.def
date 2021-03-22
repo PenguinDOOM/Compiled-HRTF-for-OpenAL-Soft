@@ -1,0 +1,13 @@
+rate     = 48000
+
+type     = mono
+
+points   = 256
+
+radius   = 0.09
+
+distance = 1.200
+
+azimuths = 1, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 72, 1
+
+[ * ] = sofa : "./H3_48K_24bit_256tap_FIR_SOFA.sofa" mono
