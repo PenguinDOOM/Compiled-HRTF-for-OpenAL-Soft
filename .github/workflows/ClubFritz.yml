@@ -20,7 +20,8 @@ jobs:
       - name: Run setup
         shell: cmd
         run: |
-          mkdir Artifact
+          mkdir Artifact\44100
+          mkdir Artifact\48000
 
       - name: Run a compile script
         shell: cmd
